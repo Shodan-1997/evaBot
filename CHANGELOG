@@ -1,0 +1,13 @@
+Version 1.0:
+RELEASE:
+- ability to respond to standard english greetings with a 'Heya~'
+
+Version 1.1:
+BUGFIX:
+only detected the greeting if first word in line
+
+ADDED:
+Ability to respond to standard French greetings - thanks to Abee
+
+REMOVED:
+N/A
